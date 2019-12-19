@@ -5,7 +5,7 @@ function C4() {
   return (
     <div className="c4">
       c4
-      <div class="login100-more">
+      <div className="login100-more">
         <image src="img/bg-01.jpg"/>
       </div>
     </div>

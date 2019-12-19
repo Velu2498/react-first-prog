@@ -14,13 +14,13 @@ function C3() {
       </div>
 
       <div className="login100-form-social flex-c-m">
-        <a  className="login100-form-social-item flex-c-m bg1 m-r-5">
+        {/* <a href="" className="login100-form-social-item flex-c-m bg1 m-r-5">
           <i className="fa fa-facebook-f" aria-hidden="true"></i>
         </a>
 
-        <a  className="login100-form-social-item flex-c-m bg2 m-r-5">
+        <a  href="" className="login100-form-social-item flex-c-m bg2 m-r-5">
           <i className="fa fa-twitter" aria-hidden="true"></i>
-        </a>
+        </a> */}
       </div>
       
     </div>
